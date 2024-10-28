@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/pearlwebclasshtml.iml" filepath="$PROJECT_DIR$/.idea/pearlwebclasshtml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/perlwebclasshtml.iml" filepath="$PROJECT_DIR$/.idea/perlwebclasshtml.iml" />
     </modules>
   </component>
 </project>

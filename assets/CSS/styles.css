@@ -1,1 +1,17 @@
-ul
+Ul{
+    list-style-type: none;
+    overflow: hidden;
+    background-color: #6cbd97;
+}
+li{
+    float: left;
+}
+li a{
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+}
+li a:hover{
+    background-color: red;
+}
